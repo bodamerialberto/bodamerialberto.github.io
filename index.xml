@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens casem! on Boda Meri &amp; Alberto</title>
+    <link>https://bodamerialberto.github.io/</link>
+    <description>Recent content in Ens casem! on Boda Meri &amp; Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language><atom:link href="https://bodamerialberto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacte</title>
+      <link>https://bodamerialberto.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bodamerialberto.github.io/contact/</guid>
+      <description>Si teniu qualsevol pregunta, dubte o us cal qualsevol aclariment, ens podeu trobar per correu electrònic a:
+bodamerialberto@protonmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
