@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bodamerialberto.github.io/en/categories/</loc>
+    <loc>https://bodamerialberto.github.io/en/registration/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://bodamerialberto.github.io/categories/"
+                href="https://bodamerialberto.github.io/registration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://bodamerialberto.github.io/es/categories/"
+                href="https://bodamerialberto.github.io/es/registration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bodamerialberto.github.io/en/categories/"
+                href="https://bodamerialberto.github.io/en/registration/"
                 />
   </url><url>
-    <loc>https://bodamerialberto.github.io/en/contact/</loc>
+    <loc>https://bodamerialberto.github.io/en/program/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://bodamerialberto.github.io/contact/"
+                href="https://bodamerialberto.github.io/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://bodamerialberto.github.io/es/contact/"
+                href="https://bodamerialberto.github.io/es/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bodamerialberto.github.io/en/contact/"
+                href="https://bodamerialberto.github.io/en/program/"
                 />
   </url><url>
     <loc>https://bodamerialberto.github.io/en/location/</loc>
@@ -57,6 +57,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bodamerialberto.github.io/en/location/"
+                />
+  </url><url>
+    <loc>https://bodamerialberto.github.io/en/food/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://bodamerialberto.github.io/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://bodamerialberto.github.io/es/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bodamerialberto.github.io/en/food/"
                 />
   </url><url>
     <loc>https://bodamerialberto.github.io/en/music/</loc>
@@ -97,42 +116,42 @@
                 href="https://bodamerialberto.github.io/en/photos/"
                 />
   </url><url>
-    <loc>https://bodamerialberto.github.io/en/program/</loc>
+    <loc>https://bodamerialberto.github.io/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://bodamerialberto.github.io/program/"
+                href="https://bodamerialberto.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://bodamerialberto.github.io/es/program/"
+                href="https://bodamerialberto.github.io/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bodamerialberto.github.io/en/program/"
+                href="https://bodamerialberto.github.io/en/contact/"
                 />
   </url><url>
-    <loc>https://bodamerialberto.github.io/en/registration/</loc>
+    <loc>https://bodamerialberto.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://bodamerialberto.github.io/registration/"
+                href="https://bodamerialberto.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://bodamerialberto.github.io/es/registration/"
+                href="https://bodamerialberto.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bodamerialberto.github.io/en/registration/"
+                href="https://bodamerialberto.github.io/en/categories/"
                 />
   </url><url>
     <loc>https://bodamerialberto.github.io/en/</loc>
